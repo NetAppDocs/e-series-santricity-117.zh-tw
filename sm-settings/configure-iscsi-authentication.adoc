@@ -14,7 +14,7 @@ summary: 為了加強iSCSI網路的安全性、您可以在控制器（目標）
 [role="lead"]
 為了加強iSCSI網路的安全性、您可以在控制器（目標）和主機（啟動器）之間設定驗證。
 
-System Manager使用Challenge Handshake驗證傳輸協定（CHAP）方法、在初始連結期間驗證目標和啟動器的身分。驗證是以稱為_CHAP secret的共用安全金鑰為基礎。
+SANtricity 系統管理員使用 Challenge Handshake 驗證傳輸協定（ CHAP ）方法，在初始連結期間驗證目標和啟動器的身分識別。驗證是以稱為_CHAP secret的共用安全金鑰為基礎。
 
 .開始之前
 您可以在設定目標（控制器）的CHAP機密之前或之後、設定啟動器（iSCSI主機）的CHAP機密。在遵循此工作的指示之前、您應該等到主機先建立iSCSI連線、然後在個別主機上設定CHAP機密。建立連線之後、主機的IQN名稱及其CHAP機密會列在iSCSI驗證的對話方塊中（如本工作所述）、您不需要手動輸入這些名稱。

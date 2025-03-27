@@ -34,7 +34,6 @@
   <block id="effd8867201555d9e878c25e6ac1c734" category="inline-link">EMW （ E2700 、 E5600 / EF560 ）說明</block>
   <block id="a0b75c365d2e51a35e74402a2c9667cf" category="list-text"><block ref="a0b75c365d2e51a35e74402a2c9667cf" category="inline-link-rx"></block></block>
   <block id="1b89afe60c3c3728ebb581ee0aac3506" category="summary">Unified Manager是網路型介面、可讓您在單一檢視畫面中管理多個儲存陣列。</block>
-  <block id="4dce3cdc79e2e44c19e0286c8128e182" category="doc">Unified Manager介面總覽</block>
   <block id="8f8d2783d036ec8dbe4b6b9c1d0fed0d" category="section-title">主頁</block>
   <block id="edab0a6bffc866b3b3e060784eab4d6a" category="paragraph">登入Unified Manager時、主頁會開啟*管理-全部*。在此頁面中、您可以捲動瀏覽網路中探索到的儲存陣列清單、檢視其狀態、以及在單一陣列或陣列群組上執行作業。</block>
   <block id="bdb2999f28589aad2b040c21930c86dc" category="section-title">導覽側邊列</block>
@@ -65,7 +64,6 @@
   <block id="e59a6d53500e53d3c955f051d0c626ff" category="inline-link-macro">變更本機使用者設定檔的密碼</block>
   <block id="ce87237c880c7aaf2f1af2e7b845297d" category="list-text"><block ref="ce87237c880c7aaf2f1af2e7b845297d" category="inline-link-macro-rx"></block></block>
   <block id="c905ab540cd89c88f522731c7c764a87" category="summary">您可以變更用於存取SANtricity 《統一化管理程式（NetApp）管理程式（Cisco Unified Manager）」的管理密碼。</block>
-  <block id="f33a46d17adbb22063054d82821f25b7" category="paragraph">您可以變更用於存取Unified Manager的管理密碼。</block>
   <block id="135b308ed83c53f1516b7c754566d1c4" category="list-title">開始之前</block>
   <block id="cd6788558cc7e0923a1c2358b16319f3" category="list-text">您必須以本機系統管理員的身分登入、其中包含root系統管理權限。</block>
   <block id="bd6118611ef18d79d9e7eedceea12308" category="list-text">您必須知道目前的管理密碼。</block>
@@ -85,7 +83,6 @@
   <block id="4fd26e85daa45f71c7c9a886f11f5797" category="list-text">在兩個欄位中輸入新密碼。</block>
   <block id="4210c9f98a5dc1ea45fd7d0d2dee8ef2" category="list-text">輸入您的本機系統管理員密碼以確認此作業、然後按一下*變更*。</block>
   <block id="c5140ae7574b7c90722120fd0af36a50" category="summary">您必須設定SANtricity 管理員密碼才能防止他人未經授權存取。</block>
-  <block id="eeba445787fc95d90b8233e19693857b" category="paragraph">您必須使用系統管理員密碼來設定Unified Manager、以防止其遭到未獲授權的存取。</block>
   <block id="1115a6e562080201b09b1af0e9c4f13a" category="section-title">管理密碼和使用者設定檔</block>
   <block id="95bd4ed85be27a910b2d6e09c064718e" category="paragraph">首次啟動Unified Manager時、系統會提示您設定管理員密碼。擁有管理員密碼的任何使用者都可以變更儲存陣列的組態。</block>
   <block id="2832434af291fd456a913710178e09e2" category="inline-link-macro">存取管理的運作方式</block>
@@ -98,7 +95,6 @@
   <block id="2f8dca464fb973f09d9647570e912987" category="paragraph">您可以調整工作階段逾時、也可以一併停用工作階段逾時。如需詳細資訊、請參閱 <block ref="491ec1fb8cfb51b8b30aff1b660d5fdc" category="inline-link-macro-rx"></block>。</block>
   <block id="2e427df5c1b5f1934e9cdd88bb2c3cb2" category="summary">可從多種瀏覽器存取支援的支援功能。SANtricity</block>
   <block id="6d84e3718084e0db779da4ff8791a2f2" category="doc">支援的瀏覽器</block>
-  <block id="6d5a07028844be42740ba8ef0ebc030a" category="paragraph">Unified Manager可從多種瀏覽器存取。</block>
   <block id="726e62b65e8dfa097c99ac497e95cf5c" category="paragraph">支援下列瀏覽器和版本。</block>
   <block id="ef15fd2f45e6bb5ce57587895ba64f93" category="cell">瀏覽器</block>
   <block id="d0a2e00895462c37efe5227c5b94faae" category="cell">最低版本</block>
@@ -117,7 +113,6 @@
   <block id="0ce99b430e0880d9c5b01d46d038d4dd" category="summary">統一化管理程式5. SANtricity</block>
   <block id="8f2804311a0084d47f6c63f97e6d6ced" category="summary">您可以更新SANtricity 使用於檢視及存取儲存陣列的密碼、以利在NetApp統一化管理程式中檢視及存取儲存陣列。</block>
   <block id="2aebbeed1009439a37c2d8cc2d3c3b8c" category="doc">變更儲存陣列密碼</block>
-  <block id="56384fe256eff96c1a56aee05a2e3fbb" category="paragraph">您可以在Unified Manager中更新用於檢視和存取儲存陣列的密碼。</block>
   <block id="3e06700262909cb379674ee849478971" category="list-text">您必須以包含Storage管理權限的使用者設定檔登入。</block>
   <block id="6200b57bba4734c357cfd4a38fa16a12" category="list-text">您必須知道在System Manager中設定的儲存陣列目前密碼。</block>
   <block id="5d0efaa3695cc3970597a53c9f03654a" category="paragraph">在此工作中、您可以輸入儲存陣列的目前密碼、以便在Unified Manager中存取。如果在System Manager中變更陣列密碼、現在也必須在Unified Manager中變更該密碼、則可能需要這麼做。</block>
@@ -125,7 +120,6 @@
   <block id="e5d29807b71c6680617647dafa4db722" category="list-text">選取功能表：「Uncommon Tasks（非正常工作）」[提供儲存陣列密碼]。</block>
   <block id="b6deb366a7ea029beae2c06ae5edbee7" category="list-text">輸入每個儲存陣列的密碼、然後按一下*「Save*」。</block>
   <block id="a1f94f83462c2ceebb1aef9832402037" category="summary">您可以設定SANtricity 適用於NetApp的逾時時間、以便在指定時間後中斷使用者的非作用中工作階段連線。</block>
-  <block id="8ad7e04aaecd791134a5e260a985aa04" category="paragraph">您可以設定Unified Manager的逾時、讓使用者在指定時間後中斷非作用中工作階段的連線。</block>
   <block id="90bc078771cba1fa174144730e743ae1" category="paragraph">Unified Manager的工作階段逾時預設為30分鐘。您可以調整時間、也可以一併停用工作階段逾時。</block>
   <block id="5cdc5e794d92075b65fddab1a4df3b77" category="list-text">從功能表列中、選取使用者登入名稱旁的下拉式箭頭。</block>
   <block id="dc5fab46b780f9174c45cb0a79e538b6" category="list-text">選擇*啟用/停用工作階段逾時*。</block>
@@ -626,7 +620,6 @@
   <block id="b62361027a61e592e1d5786d70e5cb82" category="paragraph">如果任何資源池或磁碟區群組上不存在可用容量、您可以將未設定的容量、以未使用磁碟機的形式新增至資源池或磁碟區群組。</block>
   <block id="7f29556c75106b05f3d2b4179dcc2406" category="summary">如果您在SANtricity 無法由支援系統管理程式管理的舊儲存陣列上建立主磁碟區、您可以使用System Manager在此陣列上建立次磁碟區。</block>
   <block id="87b4e06d5443a380cc83c83c3d590d35" category="doc">為舊系統上建立的主要磁碟區建立完整鏡射配對</block>
-  <block id="abe482b981924f3c0e95f1bdc14f29dc" category="paragraph">如果您在無法由System Manager管理的舊版儲存陣列上建立主要磁碟區、您可以使用System Manager在此陣列上建立次要磁碟區。</block>
   <block id="380f85f6054e74968d72b39236e80732" category="paragraph">您可以在使用不同介面的舊陣列與可由System Manager管理的新陣列之間執行非同步鏡像。</block>
   <block id="33560e79148fad52472bc34df24ac293" category="list-text">如果您是在使用System Manager的兩個儲存陣列之間進行鏡射、您可以跳過此工作、因為您已經在鏡射配對建立順序中完成鏡射配對。</block>
   <block id="d680891c022a8b76135d7b350bcfef66" category="list-text">在遠端儲存陣列上執行此工作。</block>
@@ -3855,7 +3848,6 @@
   <block id="2d987f31c5c642d85017826d9f304507" category="paragraph">E系列系統上的標準Volume、可讓資料存取遠端儲存設備。</block>
   <block id="5529f79a50b85422a46f2851156e97bf" category="paragraph">儲存資料的容器。它是為主機所建立的邏輯元件、可用來存取資料。</block>
   <block id="11922e324623e8ee6795b38fc97026aa" category="summary">在「系統管理程式」中SANtricity 、您可以依照下列步驟建立磁碟區。</block>
-  <block id="26eaac99fa3741d6e7305e93cad51def" category="paragraph">在System Manager中、您可以依照下列步驟建立磁碟區。</block>
   <block id="8774cdb9b7bf373fd360b697dfc73074" category="image-alt">Sam1130 FLW磁碟區建立</block>
   <block id="fade761e2e1e2f56c7032bce221630e8" category="summary">您可以編輯Volume群組的設定、包括其名稱和RAID層級。</block>
   <block id="5ad021e16281b4879f5a6b5a677244df" category="doc">變更Volume群組的組態設定</block>
@@ -3916,7 +3908,6 @@
   <block id="91d388ab2a6ac649e3e39aa1f5535eef" category="doc">為何無法刪除選取的工作負載？</block>
   <block id="7589dd9416261212740c49b4796da6dc" category="doc">為什麼這些磁碟區與工作負載無關？</block>
   <block id="b0e20a5b05a72022c8f53f4a8d3aea80" category="summary">利用此軟件文件、您可以安裝、設定及維護儲存陣列。SANtricity</block>
-  <block id="6328cfb48c2111f6991ccd01603442ab" category="doc">使用System Manager 11.7進行單一陣列管理</block>
   <block id="fa17f7317e2d4c9c29b39188c6c0138f" category="summary">您可以將系統組態從一個儲存陣列匯入其他儲存陣列。當您需要在網路中設定多個陣列時、這項批次作業可節省時間。</block>
   <block id="5126dceabfed710136e7f3cc807ae531" category="doc">匯入系統設定</block>
   <block id="3020e8cef105c55f53d059525fa52528" category="list-text">系統設定是在System Manager中針對您要作為來源的儲存陣列進行設定。</block>
@@ -3934,7 +3925,6 @@
   <block id="d856dd7f06174b4ea43d1a3d8b97ad9f" category="paragraph">現在、目標儲存陣列的系統設定與來源陣列相同。</block>
   <block id="bd5c1b4a761c6f196221f804787289cb" category="summary">當SANtricity 您想要執行管理作業時、可以使用「Launch」（啟動）選項、為一或多個儲存陣列開啟瀏覽器型的《SywSystem Manager》（系統管理程式）。</block>
   <block id="c911e68fc2d0d4330e7c34bd2941a90f" category="doc">管理個別的儲存陣列</block>
-  <block id="8911f9d4a79da70f2e2f26cc33ada8aa" category="paragraph">當您想要執行管理作業時、可以使用「Launch」（啟動）選項來開啟一或多個儲存陣列的瀏覽器型系統管理員。</block>
   <block id="dc81e35ba70439bdea73c9ca731dedc7" category="list-text">從「Manage（管理）」頁面中、選取您要管理的一或多個儲存陣列。</block>
   <block id="3eab8ee0f45fd9624973c05ec4303d5a" category="list-text">按一下 * 「 Launch * 」。</block>
   <block id="a269bd71b079afa7d2ec900d0f51428d" category="paragraph">系統會開啟新視窗、並顯示System Manager登入頁面。</block>
@@ -4019,7 +4009,6 @@
   <block id="9a2322dec60d95a72c3020f689531591" category="list-text"><block ref="9a2322dec60d95a72c3020f689531591" category="inline-link-macro-rx"></block></block>
   <block id="7671664858be05fdbfc7ebd9e330e072" category="summary">在Unified Manager能夠顯示及管理儲存資源之前、它必須先探索您要在組織網路中管理的儲存陣列。您可以探索多個陣列、也可以探索單一陣列。</block>
   <block id="072bbf879ecafdb82ab2e4349cfd42b5" category="doc">探索陣列的考量事項</block>
-  <block id="9b4ac681029804460c9ba68ebc344819" category="paragraph">在Unified Manager能夠顯示及管理儲存資源之前、它必須先探索您要在組織網路中管理的儲存陣列。您可以探索多個陣列、也可以探索單一陣列。</block>
   <block id="d316240204769eb0f31faba6852de25e" category="section-title">探索多個儲存陣列</block>
   <block id="c1180fcf0651dd21fc1fde9763788bc7" category="paragraph">如果您選擇探索多個陣列、請輸入網路IP位址範圍、然後Unified Manager會嘗試個別連線至該範圍內的每個IP位址。任何已成功連線的儲存陣列都會顯示在「Discover（探索）」頁面上、並可新增至您的管理網域。</block>
   <block id="429de7c9197491bab6d29f7b2cb5f688" category="section-title">探索單一儲存陣列</block>
@@ -4073,7 +4062,6 @@
   <block id="08a038d98290bf4f3a988b5b930953b6" category="list-text">對於非同步鏡射、主要磁碟區與次要磁碟區之間的精簡磁碟區屬性不相符。</block>
   <block id="d18c8b00e80b505406982d1c60493e63" category="summary">如果您不想再從SANtricity NetApp Unified Manager進行管理、可以移除一或多個儲存陣列。</block>
   <block id="bc54c8923d2e900bc8b88d98dcd843d0" category="doc">從SANtricity NetApp統一化管理程式移除儲存陣列</block>
-  <block id="0c9f801d60084ecd96df66d961171ed0" category="paragraph">如果您不想再從Unified Manager進行管理、可以移除一或多個儲存陣列。</block>
   <block id="46da89f7644863b59a53669234ecf705" category="paragraph">您無法存取任何您移除的儲存陣列。不過、您可以將瀏覽器直接指向任何移除的儲存陣列IP位址或主機名稱、藉此建立連線至任何移除的儲存陣列。</block>
   <block id="928414d532f3a0bd88fe01efa33e49cc" category="paragraph">移除儲存陣列不會影響儲存陣列或其資料。如果意外移除儲存陣列、可以再次新增。</block>
   <block id="c0906399540cc4c4cd2789192cf8a8b0" category="list-text">選取「*管理*」頁面。</block>
@@ -4339,7 +4327,6 @@
   <block id="fc0fc4bcfa8e77ccbe825eb40749b735" category="paragraph">這些磁碟區是必要的、因此控制器可以持續儲存必要的資訊、以維持鏡射在作業狀態。其中包含差異記錄和寫入時複製資料等資訊。</block>
   <block id="839a15232e75363abd83283c12dccb75" category="summary">如果某個集區或Volume群組中有多個Volume符合您為儲存物件選取的容量百分比量、您就會看到多個候選磁碟區。</block>
   <block id="bcd2040d9a3029641d27c34b32354648" category="summary">您可以選擇一或多個儲存陣列、並在SANtricity 您想要設定及管理儲存陣列時、使用「Launch」（啟動）選項來開啟「精選系統管理程式」。</block>
-  <block id="625735d117f75d6e7141cef378902859" category="paragraph">您可以選取一或多個儲存陣列、並在想要設定及管理儲存陣列時、使用「啟動」選項來開啟System Manager。</block>
   <block id="e2de2b40f2bec701c57fd2fbde183531" category="paragraph">System Manager是控制器上的內嵌應用程式、透過乙太網路管理連接埠連線至網路。它包含所有陣列型功能。</block>
   <block id="97c771fec542c151941358c9507e1818" category="paragraph">若要存取System Manager、您必須具備：</block>
   <block id="d2bf6cf91aae10964c05d43904777ddb" category="inline-link-macro">E系列硬體總覽</block>
@@ -4386,7 +4373,6 @@
   <block id="8f71af4dbe4497365aac35b2058f89d7" category="list-text">從*作業*頁面、檢閱匯入設定作業的結果。</block>
   <block id="4fe5208fe8ba8110b56b8acc0c96d17e" category="summary">匯入設定功能是批次作業、可將組態從一個儲存陣列載入至多個儲存陣列。在此作業期間匯入的設定取決於來源儲存陣列在SANtricity 「還原系統管理程式」中的設定方式。</block>
   <block id="d77d1605f41e6be3f550ae05cfaca17d" category="doc">將匯入哪些設定？</block>
-  <block id="c7f22d49f002f26198a719f2496c2e98" category="paragraph">匯入設定功能是批次作業、可將組態從一個儲存陣列載入至多個儲存陣列。在此作業期間匯入的設定取決於來源儲存陣列在System Manager中的設定方式。</block>
   <block id="eb66762bbeb3f99c598499dad7ab6419" category="paragraph">下列設定可匯入多個儲存陣列：</block>
   <block id="25e8a6fd63ed997760d824ab39cd4591" category="list-text">*電子郵件警示*-設定包含電子郵件伺服器位址和警示收件者的電子郵件位址。</block>
   <block id="6dad188816c45ced8208980247910468" category="list-text">*系統記錄警示*-設定包括系統記錄伺服器位址和一個udp連接埠。</block>
@@ -4540,7 +4526,6 @@
   <block id="bb1f88810526aebb75a95b8b6e03e6cb" category="paragraph">該憑證會從表格中移除。</block>
   <block id="7f5fc7f5a6cfd2d629daa43027091634" category="summary">RBAC（角色型存取控制）功能包括預先定義的使用者、其中有一或多個角色對應至他們。每個角色都包含存取SANtricity 功能、可在「統一化管理程式」中存取工作。</block>
   <block id="262eb45cac9556326049423e63e6c21c" category="doc">對應角色的權限</block>
-  <block id="b6d27003498a8efabd89c3632f305a38" category="paragraph">RBAC（角色型存取控制）功能包括預先定義的使用者、其中有一或多個角色對應至他們。每個角色都包含存取Unified Manager工作的權限。</block>
   <block id="536f38e388f0e686eaac049b4bfaf373" category="paragraph">這些角色可讓使用者存取工作、如下所示：</block>
   <block id="c682da937c01c9699a2f1fe4314bb7a1" category="list-text">*儲存設備管理*-完整讀寫陣列上的儲存物件存取權、但無法存取安全性組態。</block>
   <block id="f3edf224e12ff35c9cb445ef9d83558b" category="list-text">*安全管理*：存取存取管理與憑證管理中的安全性組態。</block>
@@ -4567,7 +4552,6 @@
   <block id="4184d6ac97aa74061d28478ab8dbe8d0" category="list-text">* rw*（讀寫）-此使用者包括下列角色：儲存管理員、支援管理員及監控。在設定密碼之前、此帳戶會停用。</block>
   <block id="12f62570f7b21772e82a534ca6dde3d5" category="list-text">* RO*（唯讀）-此使用者僅包含「監控」角色。在設定密碼之前、此帳戶會停用。</block>
   <block id="5d5b10ce79f5c0dc539334629d62d864" category="summary">使用存取管理功能、在SANtricity 《統一化管理程式》中建立使用者驗證。</block>
-  <block id="44e7f9b14d94f37d603139d60643ff98" category="paragraph">使用Access Management在Unified Manager中建立使用者驗證。</block>
   <block id="f40760940eef8069f0bcacc614829c32" category="paragraph">存取管理組態的運作方式如下：</block>
   <block id="80cebe0082fb9e9d2629ddbf03a45e94" category="list-text">系統管理員使用包含安全管理員權限的使用者設定檔登入Unified Manager。</block>
   <block id="2ff565b6d3ae8906f3c4fac50daf31d4" category="paragraph">第一次登入時、使用者名稱<block ref="21232f297a57a5a743894a0e4a801fc3" prefix=" " category="inline-code"></block> 會自動顯示、無法變更。。<block ref="21232f297a57a5a743894a0e4a801fc3" prefix=" " category="inline-code"></block> 使用者可完全存取系統中的所有功能。首次登入時必須設定密碼。</block>
@@ -4669,7 +4653,6 @@
   <block id="36657c00542af4ae881c5d4172f11e7f" category="list-text">如有需要、請按一下*新增其他對應*、以輸入更多群組對角色對應。</block>
   <block id="e1b68ee4aa4066c82dae8c2b6a7bd2c7" category="summary">瞭解存取管理條款如何套用SANtricity 至《統一化管理程式》。</block>
   <block id="63629e9e373cc31e6b4e5e89b63a6c1c" category="doc">存取管理術語</block>
-  <block id="64aa268315e67fd45e17bcf91ff30bab" category="paragraph">瞭解存取管理條款如何適用於Unified Manager。</block>
   <block id="4fbbbcdfcdfad5270a20167c67509f0b" category="paragraph">Active Directory</block>
   <block id="f08c83999b8fa7001f3f850f4b7b86bf" category="paragraph">Active Directory（AD）是一項Microsoft目錄服務、用於Windows網域網路的LDAP。</block>
   <block id="a2ebfe0e8e16f2c81865ce3da74bc605" category="paragraph">連結</block>
@@ -4688,7 +4671,6 @@
   <block id="431e34c6a97c9d5d28df130a10fa0c0a" category="paragraph">Web服務Proxy可透過標準HTTPS機制提供存取、讓系統管理員能夠設定儲存陣列的管理服務。Proxy可安裝在Windows或Linux主機上。Unified Manager介面可與Web Services Proxy搭配使用。</block>
   <block id="b9cba881bdd58bf9df0da788dc1b2941" category="summary">從本機使用者角色索引標籤、您可以檢視使用者與預設角色之間的對應。這些對應是在Web Services Proxy for SANtricity the Unified Manager中強制執行的RBAC（角色型存取控制）的一部分。</block>
   <block id="4f9286157c4a39a4a44a216160d5b42b" category="doc">檢視本機使用者角色</block>
-  <block id="a0363d5fd0c0b077d52f4784dbe2bec9" category="paragraph">從本機使用者角色索引標籤、您可以檢視使用者與預設角色之間的對應。這些對應是在Unified Manager的Web Services Proxy中強制執行的RBAC（角色型存取控制）的一部分。</block>
   <block id="73ac0b03481ca2066ed032fc9c2875c2" category="paragraph">無法變更使用者和對應。只能修改密碼。</block>
   <block id="c5c570ddef1c2b01ec882c74deba2a55" category="paragraph">下表顯示使用者：</block>
   <block id="2bf59aca4b70fb1e276f68737ab54888" category="list-text">*管理*：擁有系統中所有功能存取權的超級管理員。此使用者包含所有角色。</block>
@@ -4714,7 +4696,6 @@
   <block id="78620fb7eda6cb105045681ab3541f53" category="list-text"><block ref="78620fb7eda6cb105045681ab3541f53" category="inline-link-macro-rx"></block></block>
   <block id="34919a9493354af06c60b6a7efe26f66" category="summary">若要設定存取管理驗證、您需要在LDAP伺服器和執行Web Services Proxy for SANtricity the Unified Manager的主機之間建立通訊。然後將LDAP使用者群組對應至本機使用者角色。</block>
   <block id="b828924e6cb61c82f7d84db873261628" category="doc">新增目錄伺服器</block>
-  <block id="4414343c3416e84cd36e3cad4675e6cf" category="paragraph">若要設定存取管理驗證、您需要在LDAP伺服器和執行Unified Manager Web Services Proxy的主機之間建立通訊。然後將LDAP使用者群組對應至本機使用者角色。</block>
   <block id="0278292737686e16c85eb64c7a72864c" category="list-text">必須在目錄服務中定義使用者群組。</block>
   <block id="e29e36ab1efa826c0f0f99155fcf6856" category="list-text">LDAP伺服器認證必須可用、包括網域名稱、伺服器URL、以及可選的連結帳戶使用者名稱和密碼。</block>
   <block id="1bdb10098b71cd7c245b78b98d4f0026" category="list-text">對於使用安全傳輸協定的LDAPS伺服器、LDAP伺服器的憑證鏈結必須安裝在本機機器上。</block>
@@ -4769,7 +4750,6 @@
   <block id="f131afe2eabed5b381e5517af0e2e91e" category="paragraph">信任存放區</block>
   <block id="cf93328a82ffe3d054899b90fbfeed65" category="paragraph">信任存放區是一個儲存庫、其中包含來自信任的第三方（例如CA）的憑證。</block>
   <block id="8e2a365bae244df40d20169523b4c250" category="summary">如有必要、您可以匯入儲存陣列的憑證、以便使用裝載SANtricity 了VMware Unified Manager的系統進行驗證。憑證可以由憑證授權單位（CA）簽署、也可以自行簽署。</block>
-  <block id="e6170c93eb142fb01923e9f9b0ef39f7" category="paragraph">如有必要、您可以匯入儲存陣列的憑證、以便透過裝載Unified Manager的系統進行驗證。憑證可以由憑證授權單位（CA）簽署、也可以自行簽署。</block>
   <block id="35bc59ae8725a73f71e22d5b7e2eda45" category="list-text">如果您要匯入信任的憑證、則必須使用System Manager匯入儲存陣列控制器的憑證。</block>
   <block id="2e55526b44721ea9359f246eaaf629e3" category="paragraph">此頁面顯示針對儲存陣列所報告的所有憑證。</block>
   <block id="2f3bb55cd5666e46843ed94b99f1cc9c" category="list-text">選取功能表：匯入[憑證]以匯入CA憑證、或選取功能表：匯入[自我簽署的儲存陣列憑證]以匯入自我簽署的憑證。</block>
@@ -4778,7 +4758,6 @@
   <block id="bb17519c0e047380a70a0cf2fe58a6f2" category="paragraph">憑證已上傳並驗證。</block>
   <block id="061e64cad01b4cd81351026b626d0e7e" category="summary">系統管理員可以使用SANtricity 在NetApp Unified Manager中強制執行的RBAC（角色型存取控制）功能。這些功能稱為本機使用者角色。</block>
   <block id="6ba77b0cd960c73addcfcddf1a0a7678" category="doc">具有本機使用者角色的存取管理</block>
-  <block id="ba501c87876b2abc6f333f2281c9b0d8" category="paragraph">系統管理員可以使用Unified Manager中強制執行的RBAC（角色型存取控制）功能。這些功能稱為「本機使用者角色」。</block>
   <block id="8605565fad22723762c246b949a49067" category="paragraph">本機使用者角色是在系統中預先設定的。若要使用本機使用者角色進行驗證、系統管理員可以執行下列動作：</block>
   <block id="56fd628ff241b004eb707c3ad9cdca7b" category="list-text">系統管理員會檢閱預先定義且無法修改的使用者設定檔。</block>
   <block id="e8417cc5080dc22a9bd417b8ef4a92aa" category="list-text">系統管理員也可以為每個使用者設定檔指派新密碼。</block>
@@ -4804,7 +4783,6 @@
   <block id="4e659f859cf08d5887aa434a7f8bd662" category="paragraph">在Unified Manager工作階段期間、當您嘗試存取沒有CA簽署憑證的控制器時、可能會看到其他安全訊息。在此情況下、您可以永久信任自我簽署的憑證、或是匯入控制器的CA簽署憑證、讓Web服務Proxy伺服器能夠驗證這些控制器傳入的用戶端要求。</block>
   <block id="6537b14ab86690459051b15913eed344" category="summary">當儲存陣列嘗試建立安全連線至SANtricity NetApp Unified Manager、但連線無法確認安全性時、就會發生不受信任的憑證。</block>
   <block id="57978b55e3a3b1f8e477379b56230f8e" category="doc">解決不受信任的憑證</block>
-  <block id="06ae56054017bbf48392ef1bea4dfe7b" category="paragraph">當儲存陣列嘗試建立與Unified Manager的安全連線、但連線無法確認為安全時、就會發生不受信任的憑證。</block>
   <block id="235d7e3807db91d7961342f6d13f3e3b" category="paragraph">從「憑證」頁面、您可以從儲存陣列匯入自我簽署的憑證、或匯入由信任的第三方所核發的憑證授權單位（CA）憑證、藉此解決不受信任的憑證。</block>
   <block id="951e2883c6a23f655f16e49f82ab2244" category="list-text">如果您打算匯入CA簽署的憑證：</block>
   <block id="f1260c6add938f658d4fa1c233c69f76" category="list-text">您已為儲存陣列中的每個控制器產生憑證簽署要求（.CSR檔案）、並將其傳送至CA。</block>
@@ -4851,7 +4829,6 @@
   <block id="b0bb92fee06d1badcc06e51e91665db6" category="paragraph">檔案會上傳並驗證。憑證資訊會顯示在「憑證管理」頁面上。</block>
   <block id="8a26f9c1af451d8775363a647445ae49" category="summary">存取管理是一種在SANtricity 功能不全的Manager中設定使用者驗證的方法。</block>
   <block id="8a85e54e2f698ad0de66d093245f2e66" category="doc">存取管理總覽</block>
-  <block id="d1cc45589c0084f17d53b1764541acde" category="paragraph">存取管理是一種在Unified Manager中設定使用者驗證的方法。</block>
   <block id="ed5fe7f66e9072ed2fe64e1c8ad6737d" category="section-title">有哪些驗證方法可用？</block>
   <block id="41315c44be734de1ba40d7ac966572b8" category="paragraph">提供下列驗證方法：</block>
   <block id="d49c4941abd4cbf48ddd6db7bbbb59b9" category="list-text">*本機使用者角色*-驗證是透過RBAC（角色型存取控制）功能來管理。本機使用者角色包括預先定義的使用者設定檔和具有特定存取權限的角色。</block>
@@ -4949,7 +4926,6 @@
   <block id="0cc11689ab61cad1affdb347b83db24b" category="paragraph">設定基準可為統計資料的收集作業設定新的起點。所有NVMe統計資料都使用相同的基準。</block>
   <block id="3c625277723f7e35643a56ecccb51d80" category="summary">您可以從System Manager下載命令列介面（CLI）套件。</block>
   <block id="b44398f4857f5ee9b5b3372c0d3a83ac" category="doc">下載命令列介面（CLI）</block>
-  <block id="934757b9623717972adcc349e85d6283" category="paragraph">您可以從System Manager下載命令列介面（CLI）套件。</block>
   <block id="f0edcadd28eaa53b81b22a31b44b45b9" category="paragraph">CLI提供一種文字型方法、可用來設定及監控儲存陣列。它透過https通訊、並使用與外部安裝管理軟體套件中可用CLI相同的語法。不需要金鑰即可下載CLI。</block>
   <block id="75842716a65060950b20cba161cbac95" category="paragraph">您必須在打算執行CLI命令的管理系統上提供Java執行時間環境（JRE）版本8及更新版本。</block>
   <block id="bd5b00551ee618ada817137a1272291f" category="list-text">在*附加元件*下、選取*命令列介面*。</block>
@@ -5092,7 +5068,6 @@
   <block id="594b7f21d6afec5d61bcd2260307666a" category="list-text">* InfiniBand介面統計資料* iSER：提供InfiniBand介面上所有InfiniBand連接埠的iSER統計資料、其中包括效能統計資料、以及與每個交換器連接埠相關的連結錯誤資訊。</block>
   <block id="981aaa3b1d8f5d256493b92b6b493e0a" category="summary">您可以建立登入橫幅、在使用SANtricity 者在「系統管理程式」中建立工作階段之前、先向使用者出示登入橫幅。橫幅可包含建議事項通知和同意訊息。</block>
   <block id="8efb09501bad8ce68b1a1bc93afb135d" category="doc">設定登入橫幅</block>
-  <block id="69bfc5b49cdbb5ecfe1a3226439e05f5" category="paragraph">您可以建立登入橫幅、在使用者在System Manager中建立工作階段之前、先呈現給他們。橫幅可包含建議事項通知和同意訊息。</block>
   <block id="7335dfb2a6a5b54076e56c28f64c1b27" category="paragraph">建立橫幅時、橫幅會出現在對話方塊的登入畫面之前。</block>
   <block id="715a220c50a620ae5a87b5d1e1719b4e" category="list-text">在「General（一般）」區段下、選取「* Configure Login Banner（*設定登入橫幅）</block>
   <block id="795b64a6f7aa721a8a5c6f7bcdb2da8b" category="paragraph">「設定登入橫幅」對話方塊隨即開啟。</block>
@@ -5437,7 +5412,6 @@
   <block id="e49b598ec0d819934f021980302ed36e" category="paragraph">儲存陣列的控制器將其快取組織成「區塊」、這是大小可為8、16、32 KiB的記憶體區塊。儲存系統上的所有磁碟區都共用相同的快取空間、因此磁碟區只能有一個快取區塊大小。</block>
   <block id="3a60a217f8b5d35351731337da2590da" category="paragraph">應用程式使用不同的區塊大小、可能會影響儲存效能。根據預設、System Manager中的區塊大小為32 KiB、但您可以將值設為8、16、32 KiB。較小的尺寸是檔案系統或資料庫應用程式的理想選擇。對於需要大量資料傳輸、連續I/O或高頻寬（例如多媒體）的應用程式而言、較大的規模是理想的選擇。</block>
   <block id="19380508f9149606321ac832a3c00e8a" category="summary">存取管理是SANtricity 一種在《Sytricity System Manager》中建立使用者驗證的方法。驗證方法包括RBAC（角色型存取控制）、目錄服務和安全聲明標記語言（SAML）2.0。</block>
-  <block id="09802636c4ae135257f67339b6132e62" category="paragraph">存取管理是在System Manager中建立使用者驗證的方法。</block>
   <block id="1f5e202c614a1661cfc9d511376773ed" category="paragraph">驗證方法包括RBAC（角色型存取控制）、目錄服務和安全聲明標記語言（SAML）：</block>
   <block id="4b8217cf8d756a89a1dc65298ed13a9a" category="list-text">* RBAC /本機使用者角色*-驗證是透過儲存陣列中強制執行的RBAC功能來管理。本機使用者角色包括預先定義的使用者設定檔和具有特定存取權限的角色。</block>
   <block id="b0029d6c0b0a5e53814d3fbde9bfae85" category="list-text">*目錄服務*-驗證是透過LDAP（輕量型目錄存取傳輸協定）伺服器和目錄服務（例如Microsoft的Active Directory）來管理。</block>
@@ -5598,7 +5572,6 @@
   <block id="c90bc0ea70009686def8f36034bc645e" category="paragraph">設定基準可為統計資料的收集作業設定新的起點。同樣的基準適用於InfiniBand統計資料上的所有iSER。</block>
   <block id="b36030520bf6fb6f82f2952d906f0dd4" category="summary">您可以針對某些一般陣列設定和附加功能來設定System Manager。</block>
   <block id="c7f8006a54ae70968da2a44d61c94f4c" category="doc">設定總覽</block>
-  <block id="2161120ac2f277c69a937d29896bb757" category="paragraph">您可以針對某些一般陣列設定和附加功能來設定System Manager。</block>
   <block id="f01afbc659c3b1d4c71bba9b1a9ce3ea" category="section-title">我可以設定哪些設定？</block>
   <block id="92a98c57d8dff609da2fceddaeac27a4" category="paragraph">陣列設定包括：</block>
   <block id="329b059dca9192ebf68525b6d3e3be44" category="inline-link-macro">快取設定與效能</block>
@@ -6000,7 +5973,6 @@
   <block id="8db062752d20414202ee8dcfe8b79167" category="paragraph">在此組態中、外部HIC會連接至內部輔助HIC。您可以從外部HIC存取的每個實體連接埠、都有一個與內部HIC相關的虛擬連接埠。</block>
   <block id="44f3889c95f5c360f68e73f44957a694" category="paragraph">若要達到最高200GB效能、您必須為實體和虛擬連接埠指派唯一的IP位址、讓主機能夠建立每個連接埠的連線。如果您未將IP位址指派給虛擬連接埠、HIC將以大約一半的能力速度執行。</block>
   <block id="ae8f19f0991a75dbac99ee6e45ba300b" category="summary">您可以在SANtricity 「靜態系統管理程式」中設定逾時、以便在指定時間後中斷使用者的非作用中工作階段連線。</block>
-  <block id="0d08d54101084156343832dde6b77679" category="paragraph">您可以在System Manager中設定逾時、以便在指定時間後中斷使用者的非作用中工作階段連線。</block>
   <block id="7e21334170926970f8d92b45e8391954" category="paragraph">依預設、System Manager的工作階段逾時為30分鐘。您可以調整時間、也可以一併停用工作階段逾時。</block>
   <block id="e535d8be0b5cae9eeaf63966afda7bde" category="paragraph">如果使用陣列內嵌的安全聲明標記語言（SAML）功能來設定存取管理、則當使用者的SSO工作階段達到上限時、可能會發生工作階段逾時。這可能發生在System Manager工作階段逾時之前。</block>
   <block id="5303e6808de2e1eb2cd0b535241f849f" category="list-text">在「General（一般）」區段下、選取*「Enable / Disable Session timeout*（啟用/停用工作階段逾</block>
@@ -6056,7 +6028,6 @@
   <block id="80d67a7083770a1b1084819306dc6e00" category="list-text">在對話方塊中、按一下*是*。</block>
   <block id="566aba70ee8c167dfba34cf46cd5939f" category="paragraph">撤銷所有權杖之後、您可以建立新權杖並立即使用。</block>
   <block id="e78959343eccc5753e5a6f69aa17e104" category="summary">對於外部金鑰管理、您可以匯入兩種類型的憑證、以便在儲存陣列和金鑰管理伺服器之間進行驗證、讓兩個實體彼此信任。</block>
-  <block id="6bb1fc83f2153c8e3dfddfa5b556e792" category="doc">如何知道需要將哪些憑證上傳至System Manager以進行外部金鑰管理？</block>
   <block id="21e61b7b89892f01884cffafc8c86a9c" category="paragraph">用戶端憑證會驗證儲存陣列的控制器、因此金鑰管理伺服器可以信任其金鑰管理互通性傳輸協定（KMIP）要求。若要取得用戶端憑證、請使用System Manager為儲存陣列完成CSR。然後、您可以將CSR上傳至金鑰管理伺服器、然後從該伺服器產生用戶端憑證。取得用戶端憑證後、請將該檔案複製到您要存取System Manager的主機。</block>
   <block id="9a4b083823a7c4b7786c0328f4a16e2a" category="paragraph">金鑰管理伺服器憑證會驗證金鑰管理伺服器、因此儲存陣列可以信任其IP位址。從金鑰管理伺服器擷取伺服器憑證檔案、然後將該檔案複製到您正在存取System Manager的主機。</block>
   <block id="6f0a8cf9a1855b3b4a97c825f0dc2353" category="summary">當您在System Manager中進行某些變更（例如切換管理介面或使用SAML進行驗證方法）時、部分外部工具和功能可能會受到限制、無法使用。</block>
@@ -6091,8 +6062,6 @@
   <block id="2ab0aa4e6f963bdda6156f57930e7a34" category="list-text">在System Manager中、找出並記錄機箱序號。您可以將滑鼠游標移到「Support Center（支援中心）」方塊上方、以檢視此序號。</block>
   <block id="d8ab4f4f4bd758e305ce24ae089739e7" category="list-text">在System Manager中、找到「啟用功能識別碼」。移至功能表：設定[系統]、然後向下捲動至*附加元件*。尋找*功能啟用識別碼*。記錄功能啟用識別碼的編號。</block>
   <block id="1e892535381bacc3eae14862eb515b1a" category="list-text">找出並記錄功能啟動的程式碼。對於功能套件、此程式碼會在執行轉換的適當指示中提供。</block>
-  <block id="b7c76db9b2472e615129452598c32a70" category="inline-link">NetApp E系列系統文件中心</block>
-  <block id="19c1dae7ed1abf9eb3b6c5146df9b1d5" category="paragraph">如需NetApp指示、請參閱<block ref="da76044833cc021823434c8291982304" category="inline-link-rx"></block>。</block>
   <block id="ead7d7ce373cd886b6b7a1a60db53284" category="paragraph">如需進階功能、您可以從Support網站存取啟動代碼、如下所示：</block>
   <block id="e7626dadbaccf1c6de0466c8e9271bce" category="list-text">登入<block ref="9a6f401ca1e7e89d8a0c29fb0cbe81b7" category="inline-link-rx"></block>。</block>
   <block id="78e85ed9fdf2fdf631f1825f112c9596" category="list-text">請前往*您產品的軟體授權*。</block>
@@ -6344,7 +6313,6 @@
   <block id="4b1c34140fe8671262787b988c9f3e8f" category="paragraph">若要解決此問題、您必須先修正syslog伺服器的憑證。一旦有效的憑證鏈結就位、請前往功能表：「Settings[Audit Log（設定稽核記錄）&gt; Configure Syslog Servers（設定Syslog伺服器）&gt; Test All（全部測試）」。</block>
   <block id="c73b1b4d687800d408f419f0f0df3f39" category="summary">如果未啟用網路時間傳輸協定（NTP）、您可以手動設定控制器上的時鐘、使其與管理用戶端（用來執行瀏覽器以存取SANtricity 《系統管理程式》的系統）同步。</block>
   <block id="98ab351cb9c5d5c191ae7f2acc9960e7" category="doc">同步儲存陣列時鐘</block>
-  <block id="3a7965dd150006ce04e7d23d6db0b1a0" category="paragraph">如果未啟用網路時間傳輸協定（NTP）、您可以手動設定控制器上的時鐘、使其與管理用戶端（用於執行存取System Manager的瀏覽器的系統）同步。</block>
   <block id="5686e4a1839427d3f101f1242524feeb" category="paragraph">同步可確保事件記錄中的事件時間戳記與寫入主機記錄檔的時間戳記相符。在同步過程中、控制器仍可繼續使用並正常運作。</block>
   <block id="fdcb6fda8360a631ef2730c06e89ae28" category="paragraph">如果在System Manager中啟用NTP、請勿使用此選項來同步時鐘。NTP反而會使用SNTP（簡易網路時間傳輸協定）、自動將時鐘與外部主機同步。</block>
   <block id="187a2d7806202a5a575270922290f2a4" category="paragraph">同步後、您可能會發現效能統計資料遺失或偏移、排程受到影響（ASUP、快照等）、以及記錄資料中的時間戳記偏移。使用NTP可避免此問題。</block>
@@ -6442,7 +6410,6 @@
   <block id="2a46345726f4b24bc4413e97eeb1d7aa" category="summary">若要中斷目錄伺服器與儲存陣列之間的連線、您可以從「存取管理」頁面移除伺服器資訊。如果您設定了新的伺服器、然後想要移除舊的伺服器、則可能需要執行此工作。</block>
   <block id="d8d38c12a50ff2f32d458cf9d7b9a5d2" category="summary">為了加強iSCSI網路的安全性、您可以在控制器（目標）和主機（啟動器）之間設定驗證。</block>
   <block id="debdeea4f7c7c1ad7f4c1889559f36da" category="doc">設定iSCSI驗證</block>
-  <block id="f25757541c7e0ec27202359d16444702" category="paragraph">System Manager使用Challenge Handshake驗證傳輸協定（CHAP）方法、在初始連結期間驗證目標和啟動器的身分。驗證是以稱為_CHAP secret的共用安全金鑰為基礎。</block>
   <block id="6d847cb260c3b10c653cbff3f84b8181" category="paragraph">您可以在設定目標（控制器）的CHAP機密之前或之後、設定啟動器（iSCSI主機）的CHAP機密。在遵循此工作的指示之前、您應該等到主機先建立iSCSI連線、然後在個別主機上設定CHAP機密。建立連線之後、主機的IQN名稱及其CHAP機密會列在iSCSI驗證的對話方塊中（如本工作所述）、您不需要手動輸入這些名稱。</block>
   <block id="663de1f1bccd271305665fc7a85f32fc" category="paragraph">您可以選取下列其中一種驗證方法：</block>
   <block id="242f790f38df75c682bfaf14ee8110be" category="list-text">*單向驗證*-使用此設定可讓控制器驗證iSCSI主機的身分識別（單向驗證）。</block>
@@ -6507,7 +6474,6 @@
   <block id="516f6303c6523ac7aa9cc2a0fd55aab3" category="paragraph">檢視NVMe over InfiniBand統計資料</block>
   <block id="b19fe3a2a20f338166ef8a5d0758b53a" category="list-text">向下捲動至* NVMe over InfiniBand設定*、然後選取* View NVMe over Fabrics Statistic*。</block>
   <block id="4bdba401227da38e05e805640bc07392" category="summary">在儲存陣列上強制執行的RBAC（角色型存取控制）功能包括預先定義的使用者設定檔、其中有一個或多個角色對應到這些設定檔。每個角色都有權限存取SANtricity 功能、可在《系統管理程式》中執行各項工作。</block>
-  <block id="2f9b4deb9315aed582af1e2cad742214" category="paragraph">在儲存陣列上強制執行的RBAC（角色型存取控制）功能包括預先定義的使用者設定檔、其中有一個或多個角色對應到這些設定檔。每個角色都包含存取System Manager中工作的權限。</block>
   <block id="4af88e993472ad0efbe148c3d71082f9" category="paragraph">使用者設定檔和對應的角色可從任一系統管理員使用者介面中的功能表：設定[Access Management（存取管理）&gt;本機使用者角色]存取。</block>
   <block id="730a090cd84a0ce605e346fc4d569c15" category="paragraph">如果使用者沒有特定工作的權限、則該工作會呈現灰色、或不會顯示在使用者介面中。</block>
   <block id="cfdc5e649dc7b0acf3abda399c5764a7" category="summary">如果您已設定內部金鑰管理、之後再將啟用安全功能的磁碟機從一個儲存陣列移至另一個儲存陣列、則必須重新指派安全金鑰給新的儲存陣列、才能存取磁碟機上的加密資料。</block>
@@ -6796,8 +6762,6 @@
   <block id="e278e6437347ba1b8b43475dafb1ed84" category="inline-link">11.50 版本資訊</block>
   <block id="7d69ef318412295725664b5711e60b81" category="list-text"><block ref="7d69ef318412295725664b5711e60b81" category="inline-link-rx"></block></block>
   <block id="90e8ac6688c66ac3fc81de93ba27235a" category="summary">System Manager與Unified Manager SANtricity</block>
-  <block id="e66485fdc97bafe46eca656f0d146144" category="doc">SANtricity 軟體文件 11.7</block>
-  <block id="33fac5e50dba9d05a49bb949dbec339e" category="doc">Unified Manager 5.3提供多重陣列管理功能</block>
   <block id="c5a4e56bb338a4a15f84855c89874dcb" category="summary">首頁提供儀表板檢視、可用於儲存陣列的每日管理。登入System Manager時、首頁會顯示第一個畫面。</block>
   <block id="7b19b37e7fc3dfe3c3e1ad5b84c7f565" category="doc">首頁</block>
   <block id="e9aa64deeac9232288a507fc5c4fbcd7" category="paragraph">儀表板檢視包含四個摘要區域、其中包含儲存陣列狀態和健全狀況的重要資訊。您可以在摘要區域中找到更多資訊。</block>
@@ -6987,8 +6951,6 @@
   <block id="35add11daa03126332ded679a471057a" category="list-text">完成Volume複製作業後、您可以選取*清除*將其從清單中移除。</block>
   <block id="0cfd3bc55947c6b31d655ec407a2f71f" category="paragraph">操作完成時、主頁頂端會出現資訊訊息和黃色扳手圖示。此訊息包含一個連結、可讓您從「作業進行中」頁面清除作業。</block>
   <block id="3412f4f9996db44d85e9a7ddb64f8fc2" category="summary">您可以瀏覽主介面、以存取System Manager的功能和工作。</block>
-  <block id="42ff625aa5c914a15cc639fd05aa3bfb" category="doc">System Manager介面總覽</block>
-  <block id="bb62a2f52038b073396f3df591dfc864" category="paragraph">System Manager是網路型介面、可讓您在單一檢視畫面中管理儲存陣列。</block>
   <block id="a274f4d4670213a9045ce258c6c56b80" category="paragraph">通知</block>
   <block id="9446a98ad14416153cc4d45ab8b531bf" category="paragraph">效能</block>
   <block id="fbc25e9c092c98f7b43c32748a412668" category="paragraph">儲存階層架構</block>
@@ -7001,7 +6963,6 @@
   <block id="8a3756e443f3087d0407e433424e5187" category="paragraph">從介面右上角的下拉式清單存取說明文件和其他資源。</block>
   <block id="b44cc8f2227561bd5c9166d7540d3bf7" category="list-text"><block ref="b44cc8f2227561bd5c9166d7540d3bf7" category="inline-link-macro-rx"></block></block>
   <block id="41b4037cc65a5c02499addb588e46a37" category="list-text"><block ref="41b4037cc65a5c02499addb588e46a37" category="inline-link-macro-rx"></block></block>
-  <block id="e5455040d4a9ede58061022a5ec57985" category="doc">System Manager未偵測到任何主機。我該怎麼辦？</block>
   <block id="d3a86cafa599e35921fd0866f49f439b" category="list-text">如果您在主機上安裝主機內容代理程式（HCA）、HCA會將主機組態資訊推送至儲存陣列。System Manager會自動設定這些主機、並在*初始設定*精靈中顯示這些主機。（HCA不適用於NVMe over Fabrics主機。）</block>
   <block id="4343a245fb510b33d199f2e5fae7a540" category="summary">當您識別應用程式時、System Manager會根據應用程式類型、自動建議最佳化儲存設備的Volume組態。</block>
   <block id="c56a19e88f72c77c4ab3e3911e485975" category="doc">識別應用程式如何協助我管理儲存陣列？</block>
@@ -7056,8 +7017,6 @@
   <block id="76c87f9a843301e7b52af32c31aff3df" category="list-text">若要深入瞭解顯示容量值的預設單位、請參閱 <block ref="0eb9a891b9aeec8453c8ad7826b910a5" category="inline-link-macro-rx"></block>。</block>
   <block id="795e6354aa37f36ef941856ce0f794ba" category="list-text">若要深入瞭解顯示效能圖表的預設時間範圍、請參閱 <block ref="81a33fcf9c8cd6096d2da50ffffa5d5c" category="inline-link-macro-rx"></block>。</block>
   <block id="d424dbef08902607fe74ce66143ded85" category="summary">存取並登入Unified Manager。</block>
-  <block id="935157885838ef2e13b906dc3cfa3504" category="doc">存取Unified Manager</block>
-  <block id="0fe8e078d723310c7a025dbb49b053a2" category="paragraph">安裝Web服務Proxy之後、您可以存取Unified Manager、在網路型介面中管理多個儲存系統。</block>
   <block id="d6ccab2da5107baf9a74bf70fd30ac64" category="inline-link-macro">支援的瀏覽器和作業系統</block>
   <block id="0a638be7984a916271be0d85fa354c61" category="admonition">如需支援的瀏覽器、請參閱 <block ref="0d80156806b92a254389d706e3039498" category="inline-link-macro-rx"></block>。</block>
   <block id="75ac65baa63f90887df8eeedf86752f4" category="list-text">開啟瀏覽器並輸入下列URL：</block>
@@ -7070,8 +7029,6 @@
   <block id="33f269cc4cd9098419c158473cffe9e4" category="summary">E系列系統包含SANtricity 用於儲存資源配置和其他工作的支援功能。</block>
   <block id="75a9a7dc8aca16de32b785f0f7b9bc1d" category="doc">軟體概述SANtricity</block>
   <block id="ba3a0fdc8434a7821716045b35ac5b56" category="paragraph">本網站說明如何使用下列SANtricity 的資訊管理介面：</block>
-  <block id="43a99cf5380d48020dfc1071e466e3eb" category="list-text">System Manager（系統管理器）-一種Web型介面、用於管理儲存陣列中的一個控制器。</block>
-  <block id="4c8fa256f7bb6a36c0dff2d7c9f2a7d3" category="list-text">Unified Manager -網路型介面、用於檢視及管理網路中的所有儲存陣列。</block>
   <block id="63c27446cbc875ce50da9011ea68f5d7" category="admonition">EF600和EF300儲存陣列不支援鏡射、精簡磁碟區或SSD快取功能。</block>
   <block id="0472921e1ddce2239a2bd92ea276d1c2" category="section-title">系統管理程式SANtricity</block>
   <block id="12491fe4846acc1919e62f4155149b40" category="paragraph">System Manager是內嵌在每個控制器上的網路型管理軟體。若要存取使用者介面、請將瀏覽器指向控制器的IP位址。設定精靈可協助您開始進行系統組態。</block>
@@ -7157,8 +7114,6 @@
   <block id="3d945423f8e9496c429a5d8c65b4604f" category="paragraph">Ubuntu</block>
   <block id="f93164fdf3a453327bceab4df38f5ead" category="paragraph">18.04、20.04 / 64位元</block>
   <block id="cdee3f665be88669170bda11b2f06c93" category="summary">Unified Manager安裝總覽</block>
-  <block id="65747c74d7b2e455833a7211d404378f" category="doc">安裝Unified Manager</block>
-  <block id="34d9a59f7d7e5ba2b6d37af87522f26b" category="paragraph">Unified Manager隨附於Web Services Proxy、這是一款REST風格的API伺服器、可分別安裝在主機系統上、以管理NetApp E系列儲存系統。</block>
   <block id="cbdedeba7d21b6ec4e131a86b76662c6" category="paragraph">若要安裝Web服務Proxy和Unified Manager、請參閱E系列和SANtricity 支援中心的下列指示：</block>
   <block id="a18485577a4748889b9322afa1d6eadc" category="inline-link">檢閱安裝與升級需求</block>
   <block id="192c70ae7442b1e297e8288370c5d9a7" category="list-text"><block ref="192c70ae7442b1e297e8288370c5d9a7" category="inline-link-rx"></block></block>
@@ -7187,7 +7142,6 @@
   <block id="6f067491edf3a5eb1aa19e9c9212cf77" category="paragraph">根據您選取的編號、磁碟櫃訂單可能會在「硬體」頁面重新排列。如果需要、您可以使用每個機櫃右上角的向上/向下箭頭來重新調整訂單。</block>
   <block id="9a10dfa4820362278c75541e0d1eed8b" category="summary">熱備援磁碟機在System Manager的RAID 1、RAID 5或RAID 6磁碟區群組中扮演待命磁碟機的角色。 </block>
   <block id="276a13903d824739180cb574a8b6063a" category="doc">熱備援磁碟機總覽</block>
-  <block id="e4fa5d6edf084bd88f0cdd23e75bb932" category="paragraph">熱備援磁碟機在System Manager的RAID 1、RAID 5或RAID 6磁碟區群組中扮演待命磁碟機的角色。</block>
   <block id="bb3d0b1d00371907893169044379dc18" category="paragraph">它們是功能完整的磁碟機、不含任何資料。如果磁碟機在Volume群組中故障、控制器會自動將故障磁碟機的資料重新建構至指派為熱備援磁碟機的磁碟機。</block>
   <block id="44fc683d36bd75431aa319eb657eee3d" category="paragraph">熱備援磁碟機並非專供特定磁碟區群組使用。只要熱備援磁碟機與磁碟機共用下列屬性、就能將它們用於儲存陣列中的任何故障磁碟機：</block>
   <block id="4cb8bf730ded016e3d4d1c1557bceadb" category="list-text">容量相等（或熱備援的容量更大）</block>
@@ -7567,7 +7521,6 @@
   <block id="110db2e13b087b151f544be87ba6cf0b" category="list-text">*設定全域位址*：主機使用其全域唯一的網際網路位址自行設定。此位址通常是由路由器提供給主機的網路前置碼所形成。</block>
   <block id="260143c2df7ae0ce4b9a6b4e5820e5bb" category="summary">如果您變更了儲存陣列的IP位址、您可能會想要更新SANtricity 《統一化管理程式（Cisco Unified Manager）」中的全域陣列檢視。</block>
   <block id="cc9d5e6a39247b7ae502a7f1e633c4f7" category="doc">設定管理連接埠之後該怎麼辦？</block>
-  <block id="33be6721ee47ba737121b0b61fc7ccb1" category="paragraph">如果變更儲存陣列的IP位址、您可能會想要在Unified Manager中更新全域陣列檢視。</block>
   <block id="67b52d0dd0552f62756981b7d04e334a" category="paragraph">若要在Unified Manager中更新全域陣列檢視、請開啟介面、然後前往功能表：「Manage（管理）」[Discover（探索）。</block>
   <block id="3f79a5cd8daf0ba8a2623f690e8ad45d" category="paragraph">如果您仍在使用SANtricity 此功能、請前往「企業管理」視窗（EMW）、您必須在其中移除並重新新增新的IP位址。</block>
   <block id="c2348695087b04cfa58209e1cc6cf369" category="summary">學習週期是自動校準智慧型電池電量表的週期。</block>
@@ -8366,7 +8319,6 @@
   <block id="60a92f90c37ecb6d923b3bd90960fe50" category="list-text">*資料保證*-資料保證錯誤。</block>
   <block id="53f6e38bfb8737cd78f3afe40356d59e" category="summary">在「系統管理程式」中SANtricity 、AutoSupport 您可以依照下列步驟來設定「功能性」。</block>
   <block id="abcd71b1bdd83d175115a06e7bd6993c" category="doc">功能的工作流程AutoSupport</block>
-  <block id="fa1ad6ca18787ce10b28e8361e9f1ad1" category="paragraph">在System Manager中、AutoSupport 您可以依照下列步驟來設定功能。</block>
   <block id="3bd2ffe663bb769bb020a0e8f968a73a" category="image-alt">Sam1130 FLW支援ASUP設定</block>
   <block id="86a5e8630ff2e8e28a803ee84068ba6d" category="summary">您可以向控制器指出、已採取修正行動、從錯誤的線路狀況中恢復。</block>
   <block id="78806e8c631b37f7ad8cf035c7be2eac" category="doc">重新啟用磁碟機連接埠</block>
@@ -8506,10 +8458,7 @@
   <block id="0a0b92f036cc63a95b9be8f8ab2008e8" category="sidebar">恢復大師</block>
   <block id="3849340aeaa75e39b4c0086c87286698" category="sidebar">事件記錄</block>
   <block id="06eae2db1d4831c93a0da137df21298c" category="sidebar">恢復支援檔案</block>
-  <block id="589c6e07e079f4086ec279a5e83c238d" category="sidebar">利用VMware軟體、您可以將E系列混合式Flash與EF系列All Flash陣列的效能與使用率發揮到極致、適用於繁重的工作負載應用、包括資料分析、視訊監控、以及備份與還原。SANtricity</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">開始使用</block>
-  <block id="0b008f21f9758b84909b95140b0a532d" category="sidebar">System Manager介面</block>
-  <block id="29ac086a960081d77daa677c24463af3" category="sidebar">Unified Manager介面</block>
   <block id="e95315401141b931451e32ea694b6d92" category="sidebar">軟體資料表SANtricity</block>
   <block id="421eeeca306bdf1873654f04f6d8e61e" category="sidebar">E系列文件</block>
   <block id="b00771a05354ff5b2df1b388cfb6c874" category="sidebar">E系列系統文件</block>
@@ -8545,15 +8494,12 @@
   <block id="6005f32a6b0b2eff40beaf1834123d4d" category="sidebar">匯入設定</block>
   <block id="cccfa6d40938251810b757bc66c5e95b" category="sidebar">變更密碼設定</block>
   <block id="b5cd1001d92abd67712f605c8e770d14" category="sidebar">變更目錄伺服器設定</block>
-  <block id="3a269e7025c0f60568d7f845d390ff21" category="sidebar">資訊11.7文件SANtricity</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
   <block id="3b878279a04dc47d60932cb294d96259" category="sidebar">總覽</block>
   <block id="be4486cc26282ba3c22a297f83977dbe" category="sidebar">支援的瀏覽器與作業系統</block>
   <block id="483a5da192f46e3cfe8391d3ef234fc4" category="sidebar">常見問題集</block>
   <block id="3023481996e16c0dd27c1aeeab45a6c4" category="sidebar">如果我看不到所有的硬體元件、該怎麼辦？</block>
   <block id="4f77fb4cfa40635f17d21979b6692c01" category="sidebar">如果我看不到所有主機、該怎麼辦？</block>
-  <block id="009fd64f93ff18102999ecfeee8b7573" category="sidebar">Unified Manager設定</block>
-  <block id="26ed02718973e705cd69ee6e109400e0" category="sidebar">系統管理員</block>
   <block id="93af28c8ab635f0e7d402547ab0c929d" category="sidebar">主介面</block>
   <block id="fc78fae55edd9650c6455e58681d3aae" category="sidebar">檢視效能資料</block>
   <block id="76cf11d4db12b1a45f4d62797b620d5e" category="sidebar">管理介面設定</block>
@@ -8719,7 +8665,6 @@
   <block id="045d1e9a94278a8386d71e58e81fd7a1" category="sidebar">管理升級</block>
   <block id="8d94d37b5905d67ccf22b375e3bf5c6e" category="sidebar">升級軟體與韌體</block>
   <block id="f446e3c0eca28983e35e282214782584" category="sidebar">檢視陣列狀態</block>
-  <block id="835b7ac0eaf285552b7ec179de33d014" category="sidebar">啟動System Manager</block>
   <block id="8ebeac47d02da19c4d1cd88ab9d7cca8" category="sidebar">變更陣列密碼</block>
   <block id="a0a3f20685c328a00474bb00b7d35fd5" category="sidebar">從檢視中移除陣列</block>
   <block id="15fc53829e4c837f62e15647e031089c" category="sidebar">設定匯入</block>
@@ -8737,7 +8682,6 @@
   <block id="bc864bcc140c5518082e93d37b396baf" category="sidebar">使用管理主機憑證</block>
   <block id="0e695c0c9242624f235546e43dde2e16" category="sidebar">使用陣列憑證</block>
   <block id="951d3fc54a28f9f46798897467d96a5b" category="sidebar">管理憑證</block>
-  <block id="c62c395ffcd8aa3e5d38fe7155d2f510" category="sidebar">軟件SANtricity</block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
   <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
   <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
@@ -8746,4 +8690,78 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="511bc26995332ccd1bc373f2533ac9e7" category="doc">存取SANtricity 《系統管理程式》</block>
+  <block id="d5eb7087909dec2e661624440883bfe3" category="paragraph">若要存取 SANtricity 系統管理員使用者介面，請將瀏覽器指向控制器的 IP 位址。設定精靈可協助您開始進行系統組態。</block>
+  <block id="df45899b1d870d205c92f531b2f9cbca" category="doc">安裝 SANtricity Unified Manager</block>
+  <block id="c37a83a89674fde8ffeaf12ba00d2af5" category="paragraph">SANtricity Unified Manager 隨附於 Web 服務 Proxy 中，這是一種 RESTful API 伺服器，可分別安裝在主機系統上，以管理 NetApp E 系列儲存系統。</block>
+  <block id="0a9898b156851883b0c35a15776338c8" category="doc">存取 SANtricity Unified Manager</block>
+  <block id="6def903cf56aa77e14dd50ebb8fe2719" category="paragraph">安裝 Web 服務 Proxy 之後，您可以存取 SANtricity Unified Manager ，在網路型介面中管理多個儲存系統。</block>
+  <block id="2bd02938542bb2c7a9553ad05a038e27" category="list-text">SANtricity 系統管理器－一種基於 Web 的界面，用於管理存儲陣列中的一個控制器。</block>
+  <block id="a84f5db9f03e46643484135553ed5d9a" category="list-text">SANtricity Unified Manager - 網路型介面，用於檢視及管理網路中的所有儲存陣列。</block>
+  <block id="ef256c4d218c47a2c04a18d10165ac0f" category="paragraph">SANtricity 系統管理員會報告磁碟機的各種狀態。</block>
+  <block id="00cffad3ca607922a6c706858259b403" category="paragraph">熱備援磁碟機在 SANtricity 系統管理員的 RAID 1 ， RAID 5 或 RAID 6 磁區群組中扮演待命磁碟機的角色。</block>
+  <block id="f1a4437045c85126e53d06d8e40fd021" category="paragraph">處於非最佳模式的儲存系統是因為系統組態狀態無效。儘管如此，仍完全支援對現有磁碟區的正常 I/O 存取，但 SANtricity 系統管理員將禁止某些作業。</block>
+  <block id="4c1548b517bea01f9959a884be8575f3" category="paragraph">首頁提供儀表板檢視、可用於儲存陣列的每日管理。當您登入 SANtricity 系統管理員時，首頁是顯示的第一個畫面。</block>
+  <block id="23d5a32d5d5e34af0ae01167c84aee80" category="paragraph">當您識別應用程式時， SANtricity 系統管理員會根據應用程式類型，自動建議使用可最佳化儲存設備的 Volume 組態。</block>
+  <block id="533d0451d27fab44f457ddccee791402" category="doc">SANtricity 系統管理員介面概觀</block>
+  <block id="37ab8a55610b93d738f7d12e13b2cbe8" category="paragraph">SANtricity 系統管理員是網路型介面，可讓您在單一檢視中管理儲存陣列。</block>
+  <block id="1d4af631b6959ddfabcf268d07e5d112" category="paragraph">SANtricity 系統管理員會使用圖示和其他數種方法，通知您儲存陣列存在問題。</block>
+  <block id="eca296c53d8021e175c9233b22d536a5" category="paragraph">Recovery Guru 是 SANtricity 系統管理員的元件，可診斷儲存陣列問題，並建議恢復程序來修正問題。</block>
+  <block id="1eccb12b6beaa3afa33d88e6dbe96f3e" category="paragraph">SANtricity 系統管理員可以顯示以 GB （ GiB ）或 tebibytes （ TiB ）為單位的容量值。</block>
+  <block id="a9eafd95e4debe4d6c9e953b2123621f" category="doc">SANtricity 系統管理員未偵測到任何主機。我該怎麼辦？</block>
+  <block id="784bf5e8aec03bc0a910429232366bbb" category="paragraph">您可以單獨使用鍵盤瀏覽 SANtricity 系統管理員。</block>
+  <block id="31c67a5a03f932bcfb7ec2e8acde1918" category="paragraph">SANtricity 系統管理員支援這些瀏覽器版本。</block>
+  <block id="06c1a3efc270606698185f701855e68d" category="paragraph">您可以在 SANtricity Unified Manager 介面中設定鏡射配對，然後在 SANtricity 系統管理員中管理這些配對。</block>
+  <block id="74b085142e307db471b1f86d42eaa7f6" category="paragraph">您可以變更鏡射配對磁碟區的設定，以調整當鏡射配對磁碟區的保留容量即將滿時， SANtricity 系統管理員傳送警示通知的百分比。</block>
+  <block id="f16e62f612f383ccc4993fccf8164eb5" category="paragraph">如果您在SANtricity 無法由NetApp系統管理程式管理的舊儲存陣列上建立主磁碟區、您可以使用SANtricity 此Array上的「支援系統管理程式」來建立次磁碟區。</block>
+  <block id="e8335355b809680a7a07946df0f22a21" category="paragraph">鏡射是在 SANtricity Unified Manager 介面中設定。</block>
+  <block id="ab5fa22ee50acc00e54f214278173af3" category="paragraph">SANtricity 系統管理員使用 Challenge Handshake 驗證傳輸協定（ CHAP ）方法，在初始連結期間驗證目標和啟動器的身分識別。驗證是以稱為_CHAP secret的共用安全金鑰為基礎。</block>
+  <block id="3e8940a07dc6e6fcfaeb8f76e0e95d98" category="paragraph">您可以從 SANtricity 系統管理員下載命令列介面（ CLI ）套件。</block>
+  <block id="e3c6215a209a5d287059d476946fe408" category="paragraph">附加元件是 SANtricity 系統管理員標準組態中未包含的功能，可能需要金鑰才能啟用。附加功能可以是單一優質功能、也可以是隨附的功能套件。</block>
+  <block id="97d42caaa63b71f8c24b9a49d4dd3cad" category="doc">如何知道需要上傳哪些憑證到 SANtricity 系統管理員才能進行外部金鑰管理？</block>
+  <block id="ed6a026f78a1a9d6f206a0aac76aae36" category="paragraph">您可以在SANtricity 「靜態系統管理程式」中設定逾時、以便在指定時間後中斷使用者的非作用中工作階段連線。</block>
+  <block id="7b5a3ab486c3b4b2ccfc9a760315a3ea" category="paragraph">您可以將 SANtricity 系統管理員設定為透過電子郵件， SNMP 設陷和系統記錄訊息來傳送儲存陣列警示。</block>
+  <block id="04dfac63eb6f5f22800fa898350089ee" category="paragraph">您可以使用 SANtricity 系統管理員來建立憑證簽署要求（ CSR ），匯入憑證，以及管理現有的憑證。</block>
+  <block id="2808e7b4862302de005363e8d7a9298b" category="paragraph">您可以針對某些一般陣列設定和附加功能，設定 SANtricity 系統管理員。</block>
+  <block id="37292b1d6269336dad0fc27c14cc50e6" category="paragraph">「自動負載平衡」功能可確保來自主機的傳入I/O流量、能夠在兩個控制器之間動態管理及平衡。此功能預設為啟用，但您可以從 SANtricity 系統管理員停用。</block>
+  <block id="d446eaf3c37a2d1b64761e41e0d4c396" category="paragraph">您可以取得 CA 簽署的憑證，以便在控制器與用於存取 SANtricity 系統管理員的瀏覽器之間進行安全通訊。</block>
+  <block id="71922c71c5f29b0c629529ba400ef998" category="paragraph">SANtricity 系統管理員可讓您使用線上憑證狀態通訊協定 (OCSP) 伺服器來檢查撤銷的憑證，而非上傳憑證撤銷清單 (CRL) 。</block>
+  <block id="d901918c71190564252df1392b4512b5" category="paragraph">下表列出 SANtricity 系統管理員功能，可用於在 InfiniBand 工作階段上設定及管理 iSER 。</block>
+  <block id="97eb7f10d621b518571460a8d1bccf8b" category="paragraph">下表列出 SANtricity 系統管理員功能，可用於設定和管理 InfiniBand 工作階段上的 NVMe 。</block>
+  <block id="09cab99fec7e2be20fb90f16f896325b" category="paragraph">如果您注意到 SANtricity 系統管理員中顯示的時間戳記與管理用戶端（透過瀏覽器存取 SANtricity 系統管理員的電腦）中顯示的時間戳記不一致，則應手動同步儲存陣列中的控制器時鐘。只有在 SANtricity 系統管理員中未啟用 NTP （網路時間傳輸協定）時，才需要執行此工作。</block>
+  <block id="a96d9e965e10c639f6190acfe6a05114" category="paragraph">當您在 SANtricity 系統管理員中進行某些變更（例如切換管理介面或使用 SAML 進行驗證方法）時，可能會限制某些外部工具和功能的使用。</block>
+  <block id="e89611f534bae4fdefd815eda302ac53" category="paragraph">如果您在嘗試登入 SANtricity 系統管理員時收到錯誤訊息，請檢閱這些可能的原因。</block>
+  <block id="e07e1a01ada9b7dffd6f47c6fec15822" category="paragraph">您可以變更一致性群組成員磁碟區的設定，以調整當成員磁碟區的保留容量即將滿時， SANtricity 系統管理員傳送警示通知的百分比點，並在保留容量達到其最大定義百分比時變更使用的原則。</block>
+  <block id="5565955fb75572cd15d1180cd1e84891" category="paragraph">您可以變更快照群組的設定，以變更其名稱，自動刪除設定，允許的最大快照映像數， SANtricity 系統管理員傳送保留容量警示通知的百分比，或保留容量達到其最大定義百分比時使用的原則。</block>
+  <block id="f387ebe48cc5271f2c7b7a6d62f5e151" category="paragraph">當 SANtricity 系統管理員偵測到儲存陣列中未指派的磁碟機時，會自動初始化建立集區。您可以使用自動建立集區、將儲存陣列中所有未指派的磁碟機輕鬆設定為一個集區、並將磁碟機新增至現有的集區。</block>
+  <block id="167c625a6715ae3c7e8f536806a65484" category="paragraph">SANtricity 系統管理員會針對您可以從集區移除多少磁碟機，設定限制。</block>
+  <block id="edd06ce21b8b3d973ceffbcdc0ec4f8d" category="paragraph">容量警示會指出何時要將磁碟機新增至資源池。集區需要足夠的可用容量、才能成功執行儲存陣列作業。您可以將 SANtricity 系統管理員設定為在集區的可用容量達到或超過指定百分比時傳送警示，以防止這些作業中斷。</block>
+  <block id="c3ef549f921f9931ee4e54e5a9176597" category="paragraph">在 SANtricity 系統管理員中，您可以依照下列步驟建立快照映像和快照磁碟區。</block>
+  <block id="e96cf8b7e66ac097facaf28c82d66aa1" category="paragraph">技術支援可使用恢復支援檔案來疑難排解問題。SANtricity 系統管理員會自動儲存這些檔案。</block>
+  <block id="fcaba1806566990b101abb2ccb59a73f" category="paragraph">SANtricity 系統管理員會自動建立 AutoSupport 派單的預設排程。如果您願意、可以指定自己的排程。</block>
+  <block id="d8d7d1838ede45a15d34d278b1c7dc22" category="paragraph">SANtricity 系統管理員可讓您將 AutoSupport 派單傳送至技術支援，而無需等待排程的派單。</block>
+  <block id="da1743923a3a0458c608ee2a3312d293" category="paragraph">在非同步鏡射關係中、主機或遠端儲存陣列可能會發生iSCSI工作階段。下表列出可用於設定及管理這些 iSCSI 工作階段的 SANtricity 系統管理員功能。</block>
+  <block id="9f17248408dfc25b87079618f64e0acc" category="doc">使用 SANtricity System Manager 11.7 進行單一陣列管理</block>
+  <block id="5f7016e066403d9d218a874cedc63541" category="paragraph">您可以設定 SANtricity Unified Manager 的逾時時間，讓使用者在指定時間後中斷非作用中工作階段的連線。</block>
+  <block id="82a77b13aa8d00eca6e71aa5af7098d6" category="doc">SANtricity Unified Manager 介面總覽</block>
+  <block id="3ec40952f7ff71ab9d51f1f50e2e10a2" category="paragraph">SANtricity Unified Manager 是網路型介面，可讓您在單一檢視中管理多個儲存陣列。</block>
+  <block id="553b07cb69b9906d0f4d1c0b2c97bdae" category="paragraph">系統管理員可以使用SANtricity 在NetApp Unified Manager中強制執行的RBAC（角色型存取控制）功能。這些功能稱為「本機使用者角色」。</block>
+  <block id="f0254fcd04a8e1df1dc8c778e6189b01" category="paragraph">您可以取得及匯入 CA 簽署的憑證，以安全存取託管 SANtricity Unified Manager 的管理系統。</block>
+  <block id="c5f9375676cadbc97263ea339c65e0df" category="paragraph">在支援顯示及管理儲存資源之前、必須先探索您要在組織網路中管理的儲存陣列。SANtricity您可以探索多個陣列、也可以探索單一陣列。</block>
+  <block id="8205965c706fda540f0df394d1fd7df5" category="paragraph">您可以使用SANtricity 支援整合管理程式、將設定從一個儲存陣列匯入多個儲存陣列。匯入設定功能是批次作業、可在需要在網路中設定多個陣列時節省時間。</block>
+  <block id="2b8e903f9231328c5dd4ac194fe0ed99" category="paragraph">您可以使用SANtricity 支援支援功能的支援功能、將SANtricity 同類型的多個儲存陣列上的支援功能升級至新版本。</block>
+  <block id="c5cdef1d414ec599aa9b2d1f28c67d4b" category="doc">存取SANtricity 《系統管理程式》的考量</block>
+  <block id="cdaae564ece8b6f3561a5e657337c464" category="paragraph">您可以在 SANtricity Unified Manager 中設定非同步或同步鏡射，然後使用 SANtricity 系統管理員來管理同步處理。</block>
+  <block id="69ffe5f70c823700a785fa58e3fbca15" category="paragraph">SANtricity Unified Manager 包含 SANtricity 鏡射功能的組態選項，可讓系統管理員在兩個儲存陣列之間複寫資料，以保護資料。</block>
+  <block id="bf29ed0b212c99188f3c0d2b5992aeee" category="paragraph">SANtricity Unified Manager 會顯示已探索到的每個儲存陣列的狀態。</block>
+  <block id="99e207225cad4e6c8aa147bb693de2fe" category="paragraph">在您使用SANtricity NetApp統一化管理程式來升級多個儲存陣列之前、請先檢閱規劃時的重要考量事項。</block>
+  <block id="04594213069ea79b6352bed0749be021" category="doc">使用 SANtricity Unified Manager 5.3 進行多個陣列管理</block>
+  <block id="ba18f3508cd78cfafeb97526e1f182c6" category="sidebar">SANtricity 軟體 11.7 可讓您為繁重工作負載應用程式（包括資料分析，視訊監控，備份與還原），實現 E 系列混合式 Flash 和 EF 系列 All Flash 陣列的最大效能與使用率。</block>
+  <block id="bfba8e57d363decd591cc8c038377746" category="sidebar">SANtricity 軟體 11.7 文件</block>
+  <block id="48003406c3332bb90497a98f2d79b26a" category="sidebar">SANtricity 系統管理員介面</block>
+  <block id="b4baa7fdabc903993aebeaaa5980c455" category="sidebar">SANtricity Unified Manager 介面</block>
+  <block id="cc7d84bc169e532a5a2672cfc52373b3" category="sidebar">SANtricity 軟體 11.7 文件</block>
+  <block id="3089984c7abf64387bdc035943beae57" category="sidebar">SANtricity 系統管理員設定</block>
+  <block id="61ed698df3699989d8d782fe430d2755" category="sidebar">SANtricity Unified Manager 設定</block>
+  <block id="aaf551c2d815af2da13ad25c18d2670e" category="sidebar">啟動 SANtricity 系統管理員</block>
 </blocks>

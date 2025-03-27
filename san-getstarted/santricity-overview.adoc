@@ -15,8 +15,8 @@ E系列系統包含SANtricity 用於儲存資源配置和其他工作的支援�
 
 本網站說明如何使用下列SANtricity 的資訊管理介面：
 
-* System Manager（系統管理器）-一種Web型介面、用於管理儲存陣列中的一個控制器。
-* Unified Manager -網路型介面、用於檢視及管理網路中的所有儲存陣列。
+* SANtricity 系統管理器－一種基於 Web 的界面，用於管理存儲陣列中的一個控制器。
+* SANtricity Unified Manager - 網路型介面，用於檢視及管理網路中的所有儲存陣列。
 
 
 
